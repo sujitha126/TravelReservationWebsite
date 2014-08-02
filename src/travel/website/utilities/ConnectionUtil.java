@@ -5,9 +5,9 @@ import java.sql.SQLException;
 import java.sql.Statement;
  
 public class ConnectionUtil {
-    private static final String DBNAME = "BonVoyage";
-    private static final String DB_USERNAME = "ranjith0212";
-    private static final String DB_PASSWORD = "Rajsujji1129";
+    private static final String DBNAME = "";
+    private static final String DB_USERNAME = "";
+    private static final String DB_PASSWORD = "";
      
      
     public static Connection getConnection() throws Exception {
